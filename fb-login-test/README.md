@@ -15,3 +15,6 @@ Login credentials are read from an Excel file (`fb_login.xlsx`), and test result
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+1. Run the script:
+   ```bash
+   python facebook_login_test.py
