@@ -1,0 +1,1 @@
+<test name="ChromeTest" parallel="methods" thread-count="3">
